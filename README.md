@@ -13,6 +13,9 @@ This space is where I track my growth, experiments, and mini-projects as I dive 
 This repo includes:
 
 - 🔤 **Basic Codes** — Including learning Syntax, variables, conditionals, loops
+    `average_two_numbers.py`
+    `determining_type.c`
+    `square_of_a_number.c`
 - ----
 -------
 ----
